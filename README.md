@@ -46,7 +46,11 @@ About describes the version and author, and each version introduction.
 
 ![About][8]
 
-It can get help with following the Wechat Official Account to leave a message.
+It can get help with following the Wechat Official Account [qiheyehk](https://weixin.sogou.com/weixin?type=1&s_from=input&query=qiheyehk&ie=utf8&_sug_=n&_sug_type_=) to leave a message.
+
+
+
+
 
 [1]: https://github.com/MinpuKang/IPCalculate/blob/main/images/1.gif?raw=true
 
