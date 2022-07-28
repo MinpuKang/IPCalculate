@@ -48,7 +48,12 @@ About describes the version and author, and each version introduction.
 
 It can get help with following the Wechat Official Account [qiheyehk](https://weixin.sogou.com/weixin?type=1&s_from=input&query=qiheyehk&ie=utf8&_sug_=n&_sug_type_=) to leave a message.
 
+## 4. Get the software
 
+One exe package can be downloaded with link [https://pan.baidu.com/s/1eCNcN5rCACe_XRF9hv87qQ](https://pan.baidu.com/s/1eCNcN5rCACe_XRF9hv87qQ) with extracted code: <font color='red'>k2sf</font>
+
+Or this repository can be cloned, and the exe file is in bin/Release/IPCalculate.exe.
+Note: if you want to move the bin/Release/IPCalculate.exe to other folder, all files under Release should be moved with exe file.
 
 
 
