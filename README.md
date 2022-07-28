@@ -48,7 +48,7 @@ About describes the version and author, and each version introduction.
 
 It can get help with following the Wechat Official Account to leave a message.
 
-[1]: https://github.com/MinpuKang/IPCalculate/blob/main/images/2.1.gif?raw=true
+[1]: https://github.com/MinpuKang/IPCalculate/blob/main/images/1.gif?raw=true
 
 
 [2]:  https://github.com/MinpuKang/IPCalculate/blob/main/images/2.1.gif?raw=true
