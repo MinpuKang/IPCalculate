@@ -52,31 +52,30 @@ It can get help with following the Wechat Official Account [qiheyehk](https://we
 
 One exe package can be downloaded with link [https://pan.baidu.com/s/1eCNcN5rCACe_XRF9hv87qQ](https://pan.baidu.com/s/1eCNcN5rCACe_XRF9hv87qQ) with extracted code: <font color='red'>k2sf</font>
 
-Or this repository can be cloned, and the exe file is in bin/Release/IPCalculate.exe.
-Note: if you want to move the bin/Release/IPCalculate.exe to other folder, all files under Release should be moved with exe file.
+Or this repository can be cloned, and the exe file is in bin/Debug/IPCalculate.exe.
 
 
-
-[1]: https://github.com/MinpuKang/IPCalculate/blob/main/images/1.gif?raw=true
-
-
-[2]:  https://github.com/MinpuKang/IPCalculate/blob/main/images/2.1.gif?raw=true
+[1]: https://mmbiz.qpic.cn/mmbiz_gif/QqiaFS6NT0eCYVwibzfT6iaHFN3uphDTFL51McuuMU1wz9dXUZcyjYEzFBKn2AqYchjdbWC1wwva3WVcttpQzd1Yw/0?wx_fmt=gif
 
 
-[3]:  https://github.com/MinpuKang/IPCalculate/blob/main/images/2.2.1.gif?raw=true
+[2]: https://mmbiz.qpic.cn/mmbiz_gif/QqiaFS6NT0eCYVwibzfT6iaHFN3uphDTFL5ACgnOLYnpl40YFWDcphaSicvlxrqDV2nibsiboyIBMtLkONxHqWzuDg0Q/0?wx_fmt=gif
 
 
-[4]: https://github.com/MinpuKang/IPCalculate/blob/main/images/2.2.2.gif?raw=true
+[3]: https://mmbiz.qpic.cn/mmbiz_gif/QqiaFS6NT0eCYVwibzfT6iaHFN3uphDTFL5BZ9ViaCCauKfLPvIRlCnibjicQygueS1nhrsCjNNlVjrLdbhlHFJ3l7fw/0?wx_fmt=gif
 
 
-[5]: https://github.com/MinpuKang/IPCalculate/blob/main/images/2.3.gif?raw=true
+[4]: https://mmbiz.qpic.cn/mmbiz_gif/QqiaFS6NT0eCYVwibzfT6iaHFN3uphDTFL5UERY44XA72Qf9LibVp1E6pZUuudbKyTH5G9VOFQo3lgia6OPnLxicaltw/0?wx_fmt=gif
 
 
-[6]: https://github.com/MinpuKang/IPCalculate/blob/main/images/2.4.gif?raw=true
+[5]: https://mmbiz.qpic.cn/mmbiz_gif/QqiaFS6NT0eCYVwibzfT6iaHFN3uphDTFL5WCKWeyLRCJVGKCycFsnM4hFQiaYxVN8v2qdEnBoaibUia6ial6Q11dFDRQ/0?wx_fmt=gif
 
 
-[7]: https://github.com/MinpuKang/IPCalculate/blob/main/images/3.1.gif?raw=true
+[6]: https://mmbiz.qpic.cn/mmbiz_gif/QqiaFS6NT0eCYVwibzfT6iaHFN3uphDTFL5yK20gEibI0IiaHib2lDO5wEpjfibFWMQRT01Sm2SE2nALSwCtjdT0U0ibiaQ/0?wx_fmt=gif
 
 
-[8]: https://github.com/MinpuKang/IPCalculate/blob/main/images/3.2.gif?raw=true
+[7]: https://mmbiz.qpic.cn/mmbiz_gif/QqiaFS6NT0eCYVwibzfT6iaHFN3uphDTFL5BBy7HbcxpfLTetYLUiakJhpbLtU3b8ibGI0UXz7yhJpCGnmibgicQBIeJg/0?wx_fmt=gif
+
+
+[8]: https://mmbiz.qpic.cn/mmbiz_gif/QqiaFS6NT0eCYVwibzfT6iaHFN3uphDTFL5RwgN2bR9muwk1sJCEMmnJIU48nS2ia7HzF5icUNYiayfmgte27icgswKzg/0?wx_fmt=gif
+
 
