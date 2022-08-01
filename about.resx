@@ -2670,12 +2670,15 @@ How to use:
 - Directly fill the IP to be calculated in the text box.
 
 Version 1(2022-07-25)
-- First Version</value>
+- First Version
+
+Version 1.1(2022-08-01)
+- Add wildcard mask in ipv4 result.</value>
   </data>
   <data name="pictureBox_ico.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAS
-        dAAAEnQB3mYfeAAALKRJREFUeF7lnYd220iThf3+r7H7x8nRkzwO8jin8ThH2cpZVA4ke++t6kIHNECQ
+        cwAAEnMBjCK5BwAALKRJREFUeF7lnYd220iThf3+r7H7x8nRkzwO8jin8ThH2cpZVA4ke++t6kIHNECQ
         kufYWpxz1WACKX63qiPAc67DNhwO+df1B0M3vTp03z0YuP/cHLj/3jp7+uz2sCpV/USf3xl0UN99Qd0d
         QCz77kvq3qDSV1L23Vf3B+7rSF/hu/0G+vpP6EEfZd99Qz3E/Yn67tu/BhAf67tfnvXdzMZAGJHVQJiN
         3loNoIfSvcXe0P36eOj+ef3swqdS6Lw9vgFi8CX4lQk88Ao+y8oACp6l7GfwYwN8RxNAX+G+qdcDt7Iz

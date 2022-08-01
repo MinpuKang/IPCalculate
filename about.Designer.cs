@@ -62,20 +62,20 @@
             this.author_label.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.author_label.Location = new System.Drawing.Point(192, 58);
             this.author_label.Name = "author_label";
-            this.author_label.Size = new System.Drawing.Size(86, 18);
+            this.author_label.Size = new System.Drawing.Size(94, 18);
             this.author_label.TabIndex = 6;
-            this.author_label.Text = "Copyright@";
+            this.author_label.Text = "Copyright  @";
             // 
             // mail_linkLabel
             // 
             this.mail_linkLabel.AutoSize = true;
             this.mail_linkLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.mail_linkLabel.Location = new System.Drawing.Point(274, 58);
+            this.mail_linkLabel.Location = new System.Drawing.Point(286, 58);
             this.mail_linkLabel.Name = "mail_linkLabel";
-            this.mail_linkLabel.Size = new System.Drawing.Size(126, 18);
+            this.mail_linkLabel.Size = new System.Drawing.Size(86, 18);
             this.mail_linkLabel.TabIndex = 7;
             this.mail_linkLabel.TabStop = true;
-            this.mail_linkLabel.Text = "Minpu Kang(Blog)";
+            this.mail_linkLabel.Text = "Minpu Kang";
             this.toolTip_about.SetToolTip(this.mail_linkLabel, "https://hk314.top/");
             this.mail_linkLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.mail_linkLabel_LinkClicked);
             // 
@@ -132,7 +132,7 @@
             this.versionlabel.Name = "versionlabel";
             this.versionlabel.Size = new System.Drawing.Size(86, 18);
             this.versionlabel.TabIndex = 11;
-            this.versionlabel.Text = "Version: 1.0";
+            this.versionlabel.Text = "Version: 1.1";
             // 
             // pictureBox_ico
             // 

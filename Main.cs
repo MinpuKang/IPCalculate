@@ -46,9 +46,26 @@ namespace IPCalculate
                 richTextBox_ip_result.Text += "Network Address: " + System.Net.IPNetwork.Parse(ipadd).Network + "/" + System.Net.IPNetwork.Parse(ipadd).Cidr + "\r\n\r\n";
                 richTextBox_ip_result.Text += "Broadcast Address: " + System.Net.IPNetwork.Parse(ipadd).Broadcast + "/" + System.Net.IPNetwork.Parse(ipadd).Cidr + "\r\n\r\n";
                 richTextBox_ip_result.Text += "Usable Host Address Range: " + System.Net.IPNetwork.Parse(ipadd).FirstUsable + "/" + System.Net.IPNetwork.Parse(ipadd).Cidr + "  -" + "  " + System.Net.IPNetwork.Parse(ipadd).LastUsable + "/" + System.Net.IPNetwork.Parse(ipadd).Cidr + "\r\n\r\n";
-                richTextBox_ip_result.Text += "No. of Usable Host Address : " + System.Net.IPNetwork.Parse(ipadd).Usable + "\r\n\r\n";
+                richTextBox_ip_result.Text += "No. of Usable Host Address: " + System.Net.IPNetwork.Parse(ipadd).Usable + "\r\n\r\n";
                 richTextBox_ip_result.Text += "Netmask: " + System.Net.IPNetwork.Parse(ipadd).Netmask + "\r\n\r\n";
-                richTextBox_ip_result.Text += "Netmask Length: " + System.Net.IPNetwork.Parse(ipadd).Cidr + "\r\n";
+                richTextBox_ip_result.Text += "Netmask Length: " + System.Net.IPNetwork.Parse(ipadd).Cidr + "\r\n\r\n";
+
+                //for wildcard mask
+                string[] netwokrmask_array = System.Net.IPNetwork.Parse(ipadd).Netmask.ToString().Split('.');
+                string wildcard_mask="";
+                for (int i= 0;i< netwokrmask_array.Length;i++)
+                {
+                    if (i == (netwokrmask_array.Length - 1))
+                    {
+                        wildcard_mask += Convert.ToString(255-Convert.ToInt32(netwokrmask_array[i]));
+                    }
+                    else
+                    {
+                        wildcard_mask += Convert.ToString(255 - Convert.ToInt32(netwokrmask_array[i])) + ".";
+                    }
+                }
+                richTextBox_ip_result.Text += "Wildcard Mask: " + wildcard_mask + "\r\n";
+
             }
             else if (is_ipv6(ipadd) || is_ipv6_range(ipadd))
             {

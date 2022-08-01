@@ -55,7 +55,7 @@
             this.textBox_ip_address.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.textBox_ip_address.Location = new System.Drawing.Point(92, 11);
             this.textBox_ip_address.Name = "textBox_ip_address";
-            this.textBox_ip_address.Size = new System.Drawing.Size(200, 24);
+            this.textBox_ip_address.Size = new System.Drawing.Size(199, 24);
             this.textBox_ip_address.TabIndex = 1;
             this.toolTip_main.SetToolTip(this.textBox_ip_address, "Fill an available IPv4 or IPv6 address or range");
             this.textBox_ip_address.KeyUp += new System.Windows.Forms.KeyEventHandler(this.textBox_ip_address_KeyUp);
@@ -100,7 +100,7 @@
             this.richTextBox_ip_result.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.richTextBox_ip_result.Name = "richTextBox_ip_result";
             this.richTextBox_ip_result.ReadOnly = true;
-            this.richTextBox_ip_result.Size = new System.Drawing.Size(432, 281);
+            this.richTextBox_ip_result.Size = new System.Drawing.Size(432, 346);
             this.richTextBox_ip_result.TabIndex = 9;
             this.richTextBox_ip_result.Text = "";
             // 
@@ -108,7 +108,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(450, 337);
+            this.ClientSize = new System.Drawing.Size(450, 401);
             this.Controls.Add(this.richTextBox_ip_result);
             this.Controls.Add(this.textBox_ip_address);
             this.Controls.Add(this.label_ip_address);

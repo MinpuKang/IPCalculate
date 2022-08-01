@@ -1,33 +1,17 @@
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\bin\Debug\IPCalculate.exe.config
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\bin\Debug\IPCalculate.exe
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\bin\Debug\IPCalculate.pdb
-C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\bin\Debug\System.Net.IPNetwork.dll
-C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\bin\Debug\System.Memory.dll
-C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\bin\Debug\System.Buffers.dll
-C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\bin\Debug\System.Net.IPNetwork.pdb
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\bin\Debug\System.Net.IPNetwork.xml
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\obj\Debug\IPCalculate.csproj.AssemblyReference.cache
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\obj\Debug\IPCalculate.csproj.SuggestedBindingRedirects.cache
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\obj\Debug\IPCalculate.about.resources
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\obj\Debug\IPCalculate.Main.resources
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\obj\Debug\IPCalculate.otherfunction.resources
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\obj\Debug\IPCalculate.Properties.Resources.resources
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\obj\Debug\IPCalculate.csproj.GenerateResource.cache
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\obj\Debug\IPCalculate.csproj.CoreCompileInputs.cache
+C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\obj\Debug\IPCalculate.csproj.Fody.CopyLocal.cache
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\obj\Debug\IPCalculate.csproj.CopyComplete
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\obj\Debug\IPCalculate.exe
 C:\Users\eminpka\OneDrive - Ericsson AB\Innovation\Visual Studio\Project\IPCalculate\obj\Debug\IPCalculate.pdb
-C:\Users\eminpka\Documents\GitHub\IPCalculate\bin\Debug\IPCalculate.exe.config
-C:\Users\eminpka\Documents\GitHub\IPCalculate\bin\Debug\IPCalculate.exe
-C:\Users\eminpka\Documents\GitHub\IPCalculate\bin\Debug\IPCalculate.pdb
-C:\Users\eminpka\Documents\GitHub\IPCalculate\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-C:\Users\eminpka\Documents\GitHub\IPCalculate\obj\Debug\IPCalculate.csproj.AssemblyReference.cache
-C:\Users\eminpka\Documents\GitHub\IPCalculate\obj\Debug\IPCalculate.csproj.SuggestedBindingRedirects.cache
-C:\Users\eminpka\Documents\GitHub\IPCalculate\obj\Debug\IPCalculate.about.resources
-C:\Users\eminpka\Documents\GitHub\IPCalculate\obj\Debug\IPCalculate.Main.resources
-C:\Users\eminpka\Documents\GitHub\IPCalculate\obj\Debug\IPCalculate.otherfunction.resources
-C:\Users\eminpka\Documents\GitHub\IPCalculate\obj\Debug\IPCalculate.Properties.Resources.resources
-C:\Users\eminpka\Documents\GitHub\IPCalculate\obj\Debug\IPCalculate.csproj.GenerateResource.cache
-C:\Users\eminpka\Documents\GitHub\IPCalculate\obj\Debug\IPCalculate.csproj.CoreCompileInputs.cache
-C:\Users\eminpka\Documents\GitHub\IPCalculate\obj\Debug\IPCalculate.csproj.Fody.CopyLocal.cache
-C:\Users\eminpka\Documents\GitHub\IPCalculate\obj\Debug\IPCalculate.csproj.CopyComplete
-C:\Users\eminpka\Documents\GitHub\IPCalculate\obj\Debug\IPCalculate.exe
-C:\Users\eminpka\Documents\GitHub\IPCalculate\obj\Debug\IPCalculate.pdb
