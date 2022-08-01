@@ -55,7 +55,7 @@
             this.textBox_ip_address.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.textBox_ip_address.Location = new System.Drawing.Point(92, 11);
             this.textBox_ip_address.Name = "textBox_ip_address";
-            this.textBox_ip_address.Size = new System.Drawing.Size(222, 24);
+            this.textBox_ip_address.Size = new System.Drawing.Size(200, 24);
             this.textBox_ip_address.TabIndex = 1;
             this.toolTip_main.SetToolTip(this.textBox_ip_address, "Fill an available IPv4 or IPv6 address or range");
             this.textBox_ip_address.KeyUp += new System.Windows.Forms.KeyEventHandler(this.textBox_ip_address_KeyUp);
@@ -69,7 +69,7 @@
             this.menuStrip_main.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.aboutToolStripMenuItem,
             this.otherToolStripMenuItem});
-            this.menuStrip_main.Location = new System.Drawing.Point(306, 4);
+            this.menuStrip_main.Location = new System.Drawing.Point(306, 9);
             this.menuStrip_main.Name = "menuStrip_main";
             this.menuStrip_main.Size = new System.Drawing.Size(135, 28);
             this.menuStrip_main.TabIndex = 3;
